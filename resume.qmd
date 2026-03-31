@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Simon Taunima's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Simon Taunima
+Coder, Student, Weightlifter.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -15,30 +15,30 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+A student @ BYU-I studying things I am trying to understand
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Baking, Religion, Weightlifting, and coding.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooking, Religion, and Coding.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - 2020`
+__Combs High School, AZ.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sept 2023 - now`
+__Brigham Young University-Idaho, ID__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2026 - death`
+__Unfornately still alive__
 
 - Fellow
 
@@ -46,10 +46,8 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2026`
+None, but I am a Fellow
 
 
 
@@ -59,11 +57,11 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2021 - 2023`
+Adventures of Boise. 
 
-`1669`
-Lectiones opticæ.
+`2023`
+Aftermath of being in Boise for 2 years.
 
 etc. etc. etc.
 
@@ -75,14 +73,11 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`April 2023 - Sept 2023`
+__Press Designer__, AZ
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2026`
+__Unemployed__, Literally anywhere
 
 
 
